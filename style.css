@@ -34,7 +34,8 @@
 
 /* CSS for gray frame */
 .home .container {
-    background-color: #808080; /* Gray background for container */
+    background-color: #88c6f1; 
+    /* background-color: #01375e; */
     border: 2px solid #cccccc; /* Gray border */
     border-radius: 10px; /* Add border radius for rounded corners */
 }
@@ -48,6 +49,7 @@
 }
 /* text css above hero image*/
 .hero_title {
+    color: #01375e;
     text-align: center;
     text-align: left;
     align-items: center;
