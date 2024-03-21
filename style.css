@@ -4,7 +4,10 @@
 }
 .navbar {
     background-color: black;
+    align-items: center;
+    flex-direction: column;
 }
+
 
 .home {
     background-color: #ffffff;
