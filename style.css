@@ -34,9 +34,13 @@
 
 /* CSS for gray frame */
 .home .container {
+    background-image: url('./images/backgroud.jpg');
+    background-size: cover; /* This will scale the background image to be as large as possible so that the background area is completely covered by the image */
+    background-position: center; /* This will center the background image */
+    background-repeat: no-repeat; /* This will prevent the background image from repeating */
     background-color: #88c6f1; 
     /* background-color: #01375e; */
-    border: 2px solid #cccccc; /* Gray border */
+    /* border: 2px solid #cccccc;  */
     border-radius: 10px; /* Add border radius for rounded corners */
 }
 
